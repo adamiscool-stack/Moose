@@ -1,0 +1,5 @@
+mkdir -p ~/projects
+cd ~/projects
+git clone https://github.com/idaholab/moose.git
+cd moose
+git checkout master
